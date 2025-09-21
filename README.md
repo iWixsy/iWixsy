@@ -32,7 +32,7 @@ Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmay�
 - 🎓 Öğrenci — BŞEÜ, İnternet & Ağ Teknolojileri
 - 💻 İlgi Alanları: **Ağ**, **Linux**, **Sunucu**, **Otomasyon**
 - 🔭 Mevcut: Kendi projelerim / açık kaynak katkıları
-- ⚡ Hobi: Sistem güvenliği, düşük seviyeli ağ problemleri
+- ⚡ Hobi: Kendi projelerim üzerinde çalışmak
 
 ---
 
