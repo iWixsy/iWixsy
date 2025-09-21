@@ -22,7 +22,7 @@ Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmay�
   <!-- Sosyal -->
   <a href="https://github.com/iWixsy"><img alt="GitHub followers" src="https://img.shields.io/github/followers/iWixsy?label=GitHub&style=social" /></a>
   <a href="mailto:batuhan.iletisimm2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/batuhan-erkan-913481355/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/batuhanerkan-network"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/batuhan._.erkan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
