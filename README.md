@@ -4,7 +4,18 @@
 </p>
 
 <h1 align="center">Merhaba 👋, ben <strong>Batuhan Erkan</strong></h1>
-<p align="center">Ağ & sunucu meraklısı. Linux, Python, ve altyapı otomasyonu ile uğraşıyorum.</p>
+<p align="center">
+Bilecik Şeyh Edebali Üniversitesi’nde **İnternet ve Ağ Teknolojileri** bölümünde öğrenciyim. Ağ sistemleri, sunucu yönetimi ve altyapı teknolojileri üzerine yoğunlaşarak kendimi geliştirmeye çalışıyorum. Özellikle Linux tabanlı sistemler, ağ güvenliği, otomasyon çözümleri ve modern yazılım geliştirme yöntemleri ilgimi çekiyor.  
+
+Teknik becerilerimin yanında sürekli öğrenmeye, yeni teknolojileri keşfetmeye ve öğrendiklerimi projeler üzerinden uygulamaya önem veriyorum. Bu yaklaşım, hem problem çözme becerilerimi geliştirmemi sağlıyor hem de gerçek dünyadaki ihtiyaçlara yönelik çözümler üretmemi kolaylaştırıyor.  
+
+Özellikle üzerinde durduğum alanlar:  
+- 🌐 **Ağ Teknolojileri:** TCP/IP, yönlendirme, sanal ağ çözümleri  
+- 🐧 **Linux & Sunucu Yönetimi:** Debian, Ubuntu, CentOS, Nginx, systemd  
+- ⚡ **Otomasyon & Kodlama:** Python, Bash, Docker, Ansible  
+- 🔒 **Siber Güvenlik:** Temel güvenlik testleri, ağ güvenliği, açık kaynak araçlar  
+
+Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmayı hedefliyorum. Bunun yanında açık kaynak projelere katkı sunmayı, öğrendiklerimi toplulukla paylaşmayı ve sektörde değer üreten projelerde yer almayı amaçlıyorum.</p>
 
 <p align="center">
   <!-- Sosyal -->
@@ -35,7 +46,7 @@
 ---
 
 ## Öne Çıkan Projeler
-- [**repo-adi-1**](https://github.com/iWixsy/repo-adi-1) — Kısa açıklama.
+- [**Web Sitem**](https://github.com/iWixsy/BatuhanErkan-WebSite) — Kısa açıklama.
 
 
 ---
