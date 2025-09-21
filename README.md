@@ -23,6 +23,7 @@ Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmay�
   <a href="https://github.com/iWixsy"><img alt="GitHub followers" src="https://img.shields.io/github/followers/iWixsy?label=GitHub&style=social" /></a>
   <a href="mailto:batuhan.iletisimm2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/batuhan-erkan-913481355/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/batuhan._.erkan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -56,7 +57,7 @@ Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmay�
 - **Ağ:** TCP/IP, Wireshark
 - **Sunucu & OS:** Linux, Nginx
 - **Otomasyon & Kod:** Bash, Python, Docker
-- **Diğer:** Git, CI/CD
+- **Diğer:** Git
 
 ---
 
@@ -64,4 +65,5 @@ Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmay�
 <p>
   <a href="mailto:batuhan.iletisimm2@gmail.com"><img src="https://img.shields.io/badge/Email-batuhan.iletisimm2@gmail.com-blue?style=flat-square&logo=gmail" alt="email" /></a>
   <a href="https://www.linkedin.com/in/batuhan-erkan-913481355/"><img src="https://img.shields.io/badge/LinkedIn-Batuhan%20Erkan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/batuhan._.erkan/"><img src="https://img.shields.io/badge/Instagram-batuhan._.erkan-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
