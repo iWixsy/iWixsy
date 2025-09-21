@@ -55,7 +55,7 @@ Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmay�
 
 ## Yetenekler & Araçlar
 - **Ağ:** TCP/IP, Wireshark
-- **Sunucu & OS:** Linux, Nginx
+- **Sunucu & OS:** Linux, Windows , Sunucu İşletim Sistemleri
 - **Otomasyon & Kod:** Bash, Python, Docker
 - **Diğer:** Git
 
