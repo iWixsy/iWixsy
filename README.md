@@ -5,6 +5,7 @@
 
 <h1 align="center">Merhaba 👋, ben <strong>Batuhan Erkan</strong></h1>
 <p align="center">
+  
 Bilecik Şeyh Edebali Üniversitesi’nde **İnternet ve Ağ Teknolojileri** bölümünde öğrenciyim. Ağ sistemleri, sunucu yönetimi ve altyapı teknolojileri üzerine yoğunlaşarak kendimi geliştirmeye çalışıyorum. Özellikle Linux tabanlı sistemler, ağ güvenliği, otomasyon çözümleri ve modern yazılım geliştirme yöntemleri ilgimi çekiyor.  
 
 Teknik becerilerimin yanında sürekli öğrenmeye, yeni teknolojileri keşfetmeye ve öğrendiklerimi projeler üzerinden uygulamaya önem veriyorum. Bu yaklaşım, hem problem çözme becerilerimi geliştirmemi sağlıyor hem de gerçek dünyadaki ihtiyaçlara yönelik çözümler üretmemi kolaylaştırıyor.  
