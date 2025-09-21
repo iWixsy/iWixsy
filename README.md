@@ -48,7 +48,7 @@ Uzun vadede kendimi **ağ ve sistem mühendisliği** alanında uzmanlaştırmay�
 ---
 
 ## Öne Çıkan Projeler
-- [**Web Sitem**](https://github.com/iWixsy/BatuhanErkan-WebSite) — Kısa açıklama.
+- [**Web Sitem**](https://github.com/iWixsy/BatuhanErkan-WebSite) — Kişisel web sitem için hazırladığım proje. HTML, CSS ve JavaScript kullanarak portfolyo tarzında bir site geliştirdim.
 
 
 ---
