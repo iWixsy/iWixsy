@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_mbalzrmbalzrmbal.png" alt="Batuhan Erkan - Ağ ve Sistem" width="100%" />
+  <img src="Gemini_Generated_Image_mbalzrmbalzrmbal.jpg" alt="Batuhan Erkan - Ağ ve Sistem" width="100%" />
 </div>
 
 <p align="center">
@@ -63,12 +63,10 @@ Bilecik Şeyh Edebali Üniversitesi, **İnternet ve Ağ Teknolojileri** bölüm�
 
 ## 📈 GitHub İstatistiklerim
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=iWixsy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWixsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iWixsy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWixsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iWixsy&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
