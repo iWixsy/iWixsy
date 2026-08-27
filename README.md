@@ -64,14 +64,13 @@ Bilecik Şeyh Edebali Üniversitesi, **İnternet ve Ağ Teknolojileri** bölüm�
 ## 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iWixsy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWixsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iWixsy&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iWixsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Langs" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iWixsy&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
 </p>
-
 ---
 
 ## 🚀 Öne Çıkan Projeler & Çalışmalar
