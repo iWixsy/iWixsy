@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="watermarked_img_15046856468562483396.jpg" alt="Batuhan Erkan - Ağ ve Sistem" width="100%" />
+  <img src="Gemini_Generated_Image_mbalzrmbalzrmbal.png" alt="Batuhan Erkan - Ağ ve Sistem" width="100%" />
 </div>
 
 <p align="center">
