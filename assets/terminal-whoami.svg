@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 300" width="100%" height="100%">
+  <defs>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14" />
+      <stop offset="100%" stop-color="#0A1222" />
+    </linearGradient>
+    <style>
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace; }
+      .cursor { animation: blink 1s infinite; }
+    </style>
+  </defs>
+
+  <!-- Terminal Window -->
+  <rect width="950" height="300" rx="10" fill="url(#term-bg)" stroke="#1a2742" stroke-width="1.5" />
+
+  <!-- Terminal Title Bar -->
+  <rect width="950" height="34" rx="10" fill="#0e172a" />
+  <rect y="24" width="950" height="10" fill="#0e172a" />
+  <line x1="0" y1="34" x2="950" y2="34" stroke="#1c2e50" stroke-width="1" />
+
+  <!-- Window Buttons -->
+  <circle cx="22" cy="17" r="5.5" fill="#EF4444" />
+  <circle cx="38" cy="17" r="5.5" fill="#F59E0B" />
+  <circle cx="54" cy="17" r="5.5" fill="#10B981" />
+
+  <text x="475" y="21" fill="#94A3B8" font-size="11" font-weight="600" text-anchor="middle" class="font-mono">batuhan@datacenter-core: ~ (bash)</text>
+
+  <!-- Terminal Content -->
+  <g transform="translate(25, 60)">
+    <!-- Command 1: whoami -->
+    <text x="0" y="0" fill="#00D2FF" font-size="12" font-weight="700" class="font-mono">batuhan@datacenter-core:~$ <tspan fill="#FFFFFF">whoami --identity</tspan></text>
+    
+    <text x="0" y="24" fill="#E2E8F0" font-size="12" class="font-mono">➜ Name:       <tspan fill="#38BDF8" font-weight="700">Batuhan Erkan</tspan> [GitHub: @iWixsy]</text>
+    <text x="0" y="44" fill="#E2E8F0" font-size="12" class="font-mono">➜ Role:       <tspan fill="#00FF88" font-weight="700">Network &amp; Systems Administrator</tspan></text>
+    <text x="0" y="64" fill="#E2E8F0" font-size="12" class="font-mono">➜ Education:  Bilecik Şeyh Edebali Ünv. — Internet &amp; Network Technologies</text>
+    <text x="0" y="84" fill="#E2E8F0" font-size="12" class="font-mono">➜ Field Ops:  Port Facility IT Intern (Fiber Optics • CCTV • Corporate LAN)</text>
+
+    <!-- Command 2: sysinfo -->
+    <text x="0" y="122" fill="#00D2FF" font-size="12" font-weight="700" class="font-mono">batuhan@datacenter-core:~$ <tspan fill="#FFFFFF">netstat -infra --summary</tspan></text>
+    
+    <text x="0" y="146" fill="#94A3B8" font-size="11.5" class="font-mono">[ROUTING/SWITCHING]  Cisco IOS, pfSense, VLAN (802.1Q), OSPF, NAT, DHCP</text>
+    <text x="0" y="166" fill="#94A3B8" font-size="11.5" class="font-mono">[SERVER PLATFORMS]  Linux (Debian, Ubuntu), Windows Server 2022, Docker</text>
+    <text x="0" y="186" fill="#94A3B8" font-size="11.5" class="font-mono">[FIELD HARDWARE]     Fiber Trunks, OTDR, Patch Panels, PoE Switch, IP CCTV</text>
+
+    <!-- Active Command Prompt -->
+    <text x="0" y="222" fill="#00D2FF" font-size="12" font-weight="700" class="font-mono">batuhan@datacenter-core:~$ <tspan fill="#00FF88">echo $PHILOSOPHY</tspan></text>
+    <text x="0" y="244" fill="#FACC15" font-size="12" font-style="italic" class="font-mono">"Sistem asla uyumaz, sadece optimize edilir."</text>
+    <rect x="365" y="233" width="8" height="13" fill="#00D2FF" class="cursor" />
+  </g>
+</svg>
